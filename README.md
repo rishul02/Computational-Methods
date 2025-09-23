@@ -46,6 +46,7 @@ It highlights both error analysis and numerical solution techniques in computati
                 Python 3.x
                 Libraries: math, numpy (optional)
 
-6. References
+6. References:
+   
        Burden, R.L., & Faires, J.D. Numerical Analysis, 10th Edition.
        Chapra, S.C., & Canale, R.P. Numerical Methods for Engineers.
