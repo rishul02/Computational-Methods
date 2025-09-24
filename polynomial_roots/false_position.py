@@ -20,3 +20,5 @@ def false_position(a, b, tolerance=1e-5, max_iter=100):
             a = c
 
     return c  
+
+false_position(-1,3)
